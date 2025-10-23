@@ -2,12 +2,12 @@ const APP_SHELL_CACHE = 'app-shell-v1';
 const DYNAMIC_CACHE = 'dynamic-cache-v1';
 
 const APP_SHELL_ASSETS = [
-    '/',
-    '/index.html',
-    '/calendar.html',
-    '/form.html',
-    '/main.js',
-    '/offline.html',
+    './',
+    './index.html',
+    './calendar.html',
+    './form.html',
+    './main.js',
+    './offline.html',
 ];
 
 const DYNAMIC_ASSET_URLS = [
