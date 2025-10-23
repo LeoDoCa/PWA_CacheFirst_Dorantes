@@ -8,6 +8,9 @@ const APP_SHELL_ASSETS = [
     './form.html',
     './main.js',
     './offline.html',
+    './images/icons/180.png',
+    './images/icons/192.png',
+    './images/icons/512.png'
 ];
 
 const DYNAMIC_ASSET_URLS = [
