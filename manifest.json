@@ -1,0 +1,26 @@
+{
+  "name": "PWA de Gestión de Tareas",
+  "short_name": "PWA DoCa",
+  "description": "Una aplicación para gestionar tus tareas diarias, funciona offline.",
+  "start_url": "/PWA_CacheFirst_Dorantes/",
+  "display": "standalone",
+  "background_color": "#4A90E2",
+  "theme_color": "#4A90E2",
+  "icons": [
+    {
+      "src": "/images/icons/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
